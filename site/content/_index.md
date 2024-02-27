@@ -23,11 +23,12 @@ products:
       transmisión de energía confiable y eficiente. ¡Aprovechá las ventajas de
       nuestros autotransformadores con alambre de cobre y mejora tu sistema
       eléctrico hoy mismo! "
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/fototrafmil-perfil.png
+    text: La resistencia eléctrica del cobre es menor que la del aluminio, lo que
+      significa que los autotransformadores con alambre de cobre presentan una
+      menor caída de voltaje y pérdida de energía en comparación con los de
+      alambre de aluminio. Esto es particularmente beneficioso en aplicaciones
+      donde se requiere una transmisión de energía eficiente y precisa.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
