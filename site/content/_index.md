@@ -1,21 +1,21 @@
 ---
 title: Máxima Calidad en Tecnología
 subtitle: Destinada al Hogar y la Industria
-image: /img/home-jumbotron.jpg
+image: img/creacion.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Teisa Calar
+  text: " La calidad de nuestros productos electrónicos fabricados se respalda
+    adicionalmente por pruebas rigurosas de rendimiento, fiabilidad y seguridad
+    antes de su comercialización, lo que asegura la satisfacción del cliente."
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Productos fabricados
+  text: Nuestra fabricación electrónica se destaca por su precisión y
+    consistencia, lo que garantiza la producción de dispositivos confiables y de
+    alta calidad. La utilización de tecnología avanzada y procesos automatizados
+    reduce significativamente la posibilidad de errores humanos, asegurando
+    estándares uniformes en cada unidad producida.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/at1000wmlz.png
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
