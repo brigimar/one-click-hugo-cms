@@ -16,11 +16,13 @@ intro:
     estándares uniformes en cada unidad producida.
 products:
   - image: img/at1000wmlz.png
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: "Los autotransformadores Teisa Calar con alambre de cobre ofrecen ventajas
+      superiores en términos de conductividad, capacidad de carga, resistencia,
+      durabilidad, eficiencia energética y facilidad de conexión. Estas
+      características los convierten en la mejor elección cuando se requiere una
+      transmisión de energía confiable y eficiente. ¡Aprovechá las ventajas de
+      nuestros autotransformadores con alambre de cobre y mejora tu sistema
+      eléctrico hoy mismo! "
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
