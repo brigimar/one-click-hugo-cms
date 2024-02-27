@@ -30,9 +30,12 @@ products:
       alambre de aluminio. Esto es particularmente beneficioso en aplicaciones
       donde se requiere una transmisión de energía eficiente y precisa.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Enfoque
+  text: La electrónica proporciona los componentes físicos necesarios para
+    capturar, procesar y transmitir datos, mientras que la informática aporta la
+    capacidad de análisis, almacenamiento y gestión de la información generada
+    por estos dispositivos. Nuestro objetivo incorpora esta colaboración entre
+    disciplinas, donde conectamos dispositivos electrónicos a través de redes
+    informáticas para recopilar y compartir datos en tiempo real, permitiendo
+    una gestión más eficiente de recursos y servicios.
 ---
