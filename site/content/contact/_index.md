@@ -7,7 +7,5 @@ contact_entries:
   - heading: Horarios
     text: Lunes a Sábados de 8 a 19hs
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Nos encantaría ponernos en contacto con usted y escuchar sus ideas y
+preguntas. Nos esforzamos por crecer y mejorar constantemente y sus comentarios son valiosos para nosotros.
