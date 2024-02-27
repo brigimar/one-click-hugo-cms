@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "es-es"
+languageLang = "es"
 title = "Teisa Calar"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
